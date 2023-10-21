@@ -1,0 +1,6 @@
+rosserial/rosserial_tivac
+/home/bien/centauri6dof/devel/.private/rosserial_tivac/cmake.lock /home/bien/centauri6dof/devel/./cmake.lock
+/home/bien/centauri6dof/devel/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivacConfig.cmake /home/bien/centauri6dof/devel/share/rosserial_tivac/cmake/rosserial_tivacConfig.cmake
+/home/bien/centauri6dof/devel/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivac-extras.cmake /home/bien/centauri6dof/devel/share/rosserial_tivac/cmake/rosserial_tivac-extras.cmake
+/home/bien/centauri6dof/devel/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivacConfig-version.cmake /home/bien/centauri6dof/devel/share/rosserial_tivac/cmake/rosserial_tivacConfig-version.cmake
+/home/bien/centauri6dof/devel/.private/rosserial_tivac/lib/pkgconfig/rosserial_tivac.pc /home/bien/centauri6dof/devel/lib/pkgconfig/rosserial_tivac.pc

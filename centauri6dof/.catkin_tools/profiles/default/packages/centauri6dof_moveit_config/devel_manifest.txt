@@ -1,0 +1,5 @@
+centauri6dof_moveit_config
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit_config/cmake.lock /home/bien/centauri6dof/devel/./cmake.lock
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit_config/share/centauri6dof_moveit_config/cmake/centauri6dof_moveit_configConfig-version.cmake /home/bien/centauri6dof/devel/share/centauri6dof_moveit_config/cmake/centauri6dof_moveit_configConfig-version.cmake
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit_config/share/centauri6dof_moveit_config/cmake/centauri6dof_moveit_configConfig.cmake /home/bien/centauri6dof/devel/share/centauri6dof_moveit_config/cmake/centauri6dof_moveit_configConfig.cmake
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit_config/lib/pkgconfig/centauri6dof_moveit_config.pc /home/bien/centauri6dof/devel/lib/pkgconfig/centauri6dof_moveit_config.pc

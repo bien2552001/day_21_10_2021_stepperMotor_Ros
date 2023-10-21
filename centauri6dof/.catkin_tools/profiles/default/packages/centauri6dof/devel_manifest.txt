@@ -1,0 +1,5 @@
+centauri6dof
+/home/bien/centauri6dof/devel/.private/centauri6dof/cmake.lock /home/bien/centauri6dof/devel/./cmake.lock
+/home/bien/centauri6dof/devel/.private/centauri6dof/share/centauri6dof/cmake/centauri6dofConfig-version.cmake /home/bien/centauri6dof/devel/share/centauri6dof/cmake/centauri6dofConfig-version.cmake
+/home/bien/centauri6dof/devel/.private/centauri6dof/share/centauri6dof/cmake/centauri6dofConfig.cmake /home/bien/centauri6dof/devel/share/centauri6dof/cmake/centauri6dofConfig.cmake
+/home/bien/centauri6dof/devel/.private/centauri6dof/lib/pkgconfig/centauri6dof.pc /home/bien/centauri6dof/devel/lib/pkgconfig/centauri6dof.pc

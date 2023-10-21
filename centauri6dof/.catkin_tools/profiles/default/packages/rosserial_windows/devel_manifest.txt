@@ -1,0 +1,7 @@
+rosserial/rosserial_windows
+/home/bien/centauri6dof/devel/.private/rosserial_windows/cmake.lock /home/bien/centauri6dof/devel/./cmake.lock
+/home/bien/centauri6dof/devel/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig-version.cmake /home/bien/centauri6dof/devel/share/rosserial_windows/cmake/rosserial_windowsConfig-version.cmake
+/home/bien/centauri6dof/devel/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig.cmake /home/bien/centauri6dof/devel/share/rosserial_windows/cmake/rosserial_windowsConfig.cmake
+/home/bien/centauri6dof/devel/.private/rosserial_windows/lib/rosserial_windows/make_libraries.py /home/bien/centauri6dof/devel/lib/rosserial_windows/make_libraries.py
+/home/bien/centauri6dof/devel/.private/rosserial_windows/lib/rosserial_windows/cmake.lock /home/bien/centauri6dof/devel/lib/rosserial_windows/cmake.lock
+/home/bien/centauri6dof/devel/.private/rosserial_windows/lib/pkgconfig/rosserial_windows.pc /home/bien/centauri6dof/devel/lib/pkgconfig/rosserial_windows.pc

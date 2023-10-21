@@ -1,0 +1,2 @@
+rosserial/rosserial
+/home/bien/centauri6dof/devel/.private/rosserial/cmake.lock /home/bien/centauri6dof/devel/./cmake.lock

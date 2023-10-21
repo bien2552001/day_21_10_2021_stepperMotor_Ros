@@ -1,0 +1,9 @@
+rosserial/rosserial_server
+/home/bien/centauri6dof/devel/.private/rosserial_server/cmake.lock /home/bien/centauri6dof/devel/./cmake.lock
+/home/bien/centauri6dof/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig.cmake /home/bien/centauri6dof/devel/share/rosserial_server/cmake/rosserial_serverConfig.cmake
+/home/bien/centauri6dof/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake /home/bien/centauri6dof/devel/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake
+/home/bien/centauri6dof/devel/.private/rosserial_server/lib/librosserial_server_lookup.so /home/bien/centauri6dof/devel/lib/librosserial_server_lookup.so
+/home/bien/centauri6dof/devel/.private/rosserial_server/lib/rosserial_server/serial_node /home/bien/centauri6dof/devel/lib/rosserial_server/serial_node
+/home/bien/centauri6dof/devel/.private/rosserial_server/lib/rosserial_server/udp_socket_node /home/bien/centauri6dof/devel/lib/rosserial_server/udp_socket_node
+/home/bien/centauri6dof/devel/.private/rosserial_server/lib/rosserial_server/socket_node /home/bien/centauri6dof/devel/lib/rosserial_server/socket_node
+/home/bien/centauri6dof/devel/.private/rosserial_server/lib/pkgconfig/rosserial_server.pc /home/bien/centauri6dof/devel/lib/pkgconfig/rosserial_server.pc

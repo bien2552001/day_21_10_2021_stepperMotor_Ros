@@ -1,0 +1,24 @@
+centauri6dof_moveit
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/cmake.lock /home/bien/centauri6dof/devel/./cmake.lock
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/gennodejs/ros/centauri6dof_moveit/_index.js /home/bien/centauri6dof/devel/share/gennodejs/ros/centauri6dof_moveit/_index.js
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/gennodejs/ros/centauri6dof_moveit/msg/_index.js /home/bien/centauri6dof/devel/share/gennodejs/ros/centauri6dof_moveit/msg/_index.js
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/gennodejs/ros/centauri6dof_moveit/msg/ArmJointState.js /home/bien/centauri6dof/devel/share/gennodejs/ros/centauri6dof_moveit/msg/ArmJointState.js
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/common-lisp/ros/centauri6dof_moveit/msg/_package.lisp /home/bien/centauri6dof/devel/share/common-lisp/ros/centauri6dof_moveit/msg/_package.lisp
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/common-lisp/ros/centauri6dof_moveit/msg/centauri6dof_moveit-msg.asd /home/bien/centauri6dof/devel/share/common-lisp/ros/centauri6dof_moveit/msg/centauri6dof_moveit-msg.asd
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/common-lisp/ros/centauri6dof_moveit/msg/_package_ArmJointState.lisp /home/bien/centauri6dof/devel/share/common-lisp/ros/centauri6dof_moveit/msg/_package_ArmJointState.lisp
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/common-lisp/ros/centauri6dof_moveit/msg/ArmJointState.lisp /home/bien/centauri6dof/devel/share/common-lisp/ros/centauri6dof_moveit/msg/ArmJointState.lisp
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/roseus/ros/centauri6dof_moveit/manifest.l /home/bien/centauri6dof/devel/share/roseus/ros/centauri6dof_moveit/manifest.l
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/roseus/ros/centauri6dof_moveit/msg/ArmJointState.l /home/bien/centauri6dof/devel/share/roseus/ros/centauri6dof_moveit/msg/ArmJointState.l
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/centauri6dof_moveit/cmake/centauri6dof_moveitConfig-version.cmake /home/bien/centauri6dof/devel/share/centauri6dof_moveit/cmake/centauri6dof_moveitConfig-version.cmake
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/centauri6dof_moveit/cmake/centauri6dof_moveit-msg-extras.cmake /home/bien/centauri6dof/devel/share/centauri6dof_moveit/cmake/centauri6dof_moveit-msg-extras.cmake
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/centauri6dof_moveit/cmake/centauri6dof_moveitConfig.cmake /home/bien/centauri6dof/devel/share/centauri6dof_moveit/cmake/centauri6dof_moveitConfig.cmake
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/share/centauri6dof_moveit/cmake/centauri6dof_moveit-msg-paths.cmake /home/bien/centauri6dof/devel/share/centauri6dof_moveit/cmake/centauri6dof_moveit-msg-paths.cmake
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/lib/pkgconfig/centauri6dof_moveit.pc /home/bien/centauri6dof/devel/lib/pkgconfig/centauri6dof_moveit.pc
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/lib/python3/dist-packages/centauri6dof_moveit/__init__.py /home/bien/centauri6dof/devel/lib/python3/dist-packages/centauri6dof_moveit/__init__.py
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/lib/python3/dist-packages/centauri6dof_moveit/msg/_ArmJointState.py /home/bien/centauri6dof/devel/lib/python3/dist-packages/centauri6dof_moveit/msg/_ArmJointState.py
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/lib/python3/dist-packages/centauri6dof_moveit/msg/__init__.py /home/bien/centauri6dof/devel/lib/python3/dist-packages/centauri6dof_moveit/msg/__init__.py
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/lib/centauri6dof_moveit/moveo_objrec_publisher.py /home/bien/centauri6dof/devel/lib/centauri6dof_moveit/moveo_objrec_publisher.py
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/lib/centauri6dof_moveit/move_group_1 /home/bien/centauri6dof/devel/lib/centauri6dof_moveit/move_group_1
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/lib/centauri6dof_moveit/moveit_convert /home/bien/centauri6dof/devel/lib/centauri6dof_moveit/moveit_convert
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/lib/centauri6dof_moveit/cmake.lock /home/bien/centauri6dof/devel/lib/centauri6dof_moveit/cmake.lock
+/home/bien/centauri6dof/devel/.private/centauri6dof_moveit/include/centauri6dof_moveit/ArmJointState.h /home/bien/centauri6dof/devel/include/centauri6dof_moveit/ArmJointState.h
